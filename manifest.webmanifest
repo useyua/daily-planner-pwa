@@ -1,0 +1,15 @@
+{
+  "name": "Daily Planner",
+  "short_name": "Daily Planner",
+  "description": "スマホからのクイック入力・閲覧用(PCが唯一のDB書き込み者)",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2d6cdf",
+  "lang": "ja",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
